@@ -13,7 +13,7 @@ TypeScript cheatsheet and notes
 via npm
 
 ```
-npm install typescript --save-dev
+npm install -g typescript
 ```
 
 ```
