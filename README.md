@@ -34,7 +34,7 @@ $ node index.js
 ```
 Note − Multiple files can be compiled at once:
 ```tsx
-tsc file1.ts, file2.ts, file3.ts
+npx tsc file1.ts, file2.ts, file3.ts
 ```
 
 **ts-node**
