@@ -28,7 +28,7 @@ npx tsc --init        # generate tsconfig.json
 ```tsx
 npx tsc index.ts 
 ```
-
+After compiled, it will change to js file, then execute the js file by nodejs
 ```tsx
 $ node index.js
 ```
